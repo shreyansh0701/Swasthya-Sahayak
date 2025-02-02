@@ -1,5 +1,3 @@
-README
-
 🏥स्वास्थ्य सहायक (Swasthya Sahayak)
 
 OVERVIEW
